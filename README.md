@@ -1,0 +1,2 @@
+# testazurefunc
+test azure function
