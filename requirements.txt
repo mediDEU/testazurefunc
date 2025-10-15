@@ -1,0 +1,2 @@
+# Azure Functions Python dependencies
+azure-functions>=1.11.0,<2.0.0
